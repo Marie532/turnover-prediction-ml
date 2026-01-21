@@ -72,5 +72,5 @@ Ce projet démontre la mise en œuvre complète d’un **pipeline Data Science**
 - interprétation métier
 
 Il s’inscrit dans une démarche de **montée en compétences en Data Science / IA**.
-sns.boxplot(x='Turnover', y='Satisfaction', data=data)
+
 
